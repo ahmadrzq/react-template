@@ -40,7 +40,7 @@ npm i
 npm run dev
 
 //Backsite
-cd .backsite
+cd backsite
 npm i
 npm run dev
 ```
