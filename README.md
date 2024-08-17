@@ -31,6 +31,8 @@ This is a template project for React. It includes several packages that are comm
 | 8   | multer            | Uploading files                | [multer](https://www.npmjs.com/package/multer "multer")                                  |
 | 9   | nodemon           | Automatically restart Node.js  | [nodemon](https://www.npmjs.com/package/nodemon "nodemon")                               |
 | 10  | path              | Utility for file and directory | [path](https://www.npmjs.com/package/path "path")                                        |
+| 11  | sequelize              | ORM Tool for MySQL | [sequelize](https://sequelize.org/docs/v6/getting-started "sequelize")                                        |
+| 12  | mysql2              | Database driver sequelize | [mysql2](https://sequelize.org/docs/v6/getting-started "mysql2")                                        |
 
 ## Usage :
 
