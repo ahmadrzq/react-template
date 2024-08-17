@@ -15,6 +15,7 @@ This is a template project for React. It includes several packages that are comm
 | 5   | axios                        | Request HTTP      | [Axios](https://axios-http.com/docs/intro "Axios")                                    |
 | 6   | js-cookie                    | Handling cookies  | [js-cookies](https://www.npmjs.com/package/js-cookie "js-cookies")                    |
 | 7   | @reduxjs/toolkit react-redux | State management  | [Redux Toolkit](https://redux-toolkit.js.org/tutorials/quick-start "Redux Toolkit")   |
+| 6   | @tanstack/react-query        | Server State  | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/quick-start "TanStack Query")   |
 
 ### Backsite
 
